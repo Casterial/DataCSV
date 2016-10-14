@@ -1,0 +1,18 @@
+﻿Build started 9/1/2016 1:57:29 PM.
+     1>Project "E:\Visual Studios C++\DataSetCSV\DataSetCSV\DataSetCSV.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\visual studios c++\datasetcsv\datasetcsv\main.cpp(22): warning C4101: 'x' : unreferenced local variable
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Studios C++\DataSetCSV\Debug\DataSetCSV.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Visual Studios C++\DataSetCSV\Debug\DataSetCSV.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Studios C++\DataSetCSV\Debug\DataSetCSV.lib" /MACHINE:X86 Debug\CSV.obj
+         Debug\HeapSort.obj
+         Debug\main.obj
+         Debug\RadixSort.obj
+         Debug\Selection_Quick_Insert.obj
+         DataSetCSV.vcxproj -> E:\Visual Studios C++\DataSetCSV\Debug\DataSetCSV.exe
+     1>Done Building Project "E:\Visual Studios C++\DataSetCSV\DataSetCSV\DataSetCSV.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.54
